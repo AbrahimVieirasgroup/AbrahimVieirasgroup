@@ -1,5 +1,5 @@
 **Bárbara de Azevedo Abrahim Vieira**
-
+[<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4746033H0" width="20" height="20" />]
 Adjunct professor at the Faculty of Pharmacy at the Federal University of Rio de Janeiro - UFRJ, member of the Molecular Modeling &QSAR Laboratory (ModMolQSAR), Young Scientist of the State of Rio de Janeiro (FAPERJ) (2023-2025), held a post-doctorate in Methods Studies in Toxicity (2014-2015) - UFRJ, PhD in Pharmaceutical Sciences - UFRJ and University of Coimbra-Portugal (sandwich doctorate - PDSE/CAPES) (2011-2013), Master in Applied Sciences to Health Products - UFF ( 2009-2011), graduated in Industrial Pharmacy - UFF. Research in the following lines: computational studies of bioactive compounds, simulation of Physiologically Based PharmacoKinetic modelling (PBPK), development of new formulations, pharmacokinetic and toxicity prediction (ADMET) of drugs and risk assessment of degradation products (DPs) according to harmonization guides (ICH) and OECD. Mother of two daughters, aged 11 and 6, supporter of incentives for Women in Science and Parent in Science.[<img src="https://www.gov.br/observatorio/pt-br/assuntos/programas-academicos/imagens/Lattes.png/@@images/image" width="20" height="20" />](http://lattes.cnpq.br/5694594751124057)
 
 **Articles in Scientific Journals**
