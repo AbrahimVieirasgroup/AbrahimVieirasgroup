@@ -2,8 +2,19 @@
 
 Adjunct professor at the Faculty of Pharmacy at the Federal University of Rio de Janeiro - UFRJ, member of the Molecular Modeling &QSAR Laboratory (ModMolQSAR), Young Scientist of the State of Rio de Janeiro (FAPERJ) (2023-2025), held a post-doctorate in Methods Studies in Toxicity (2014-2015) - UFRJ, PhD in Pharmaceutical Sciences - UFRJ and University of Coimbra-Portugal (sandwich doctorate - PDSE/CAPES) (2011-2013), Master in Applied Sciences to Health Products - UFF ( 2009-2011), graduated in Industrial Pharmacy - UFF. Research in the following lines: computational studies of bioactive compounds, simulation of Physiologically Based PharmacoKinetic modelling (PBPK), development of new formulations, pharmacokinetic and toxicity prediction (ADMET) of drugs and risk assessment of degradation products (DPs) according to harmonization guides (ICH) and OECD. Mother of two daughters, aged 11 and 6, supporter of incentives for Women in Science and Parent in Science.[<img src="https://www.gov.br/observatorio/pt-br/assuntos/programas-academicos/imagens/Lattes.png/@@images/image" width="20" height="20" />](http://lattes.cnpq.br/5694594751124057)
 
-**Articles in Scientific Journals**
+**Research lines**
+*** *1-Pharmacokinetic studies of new drug candidates:* ***
 1.	MACHADO, T. R. ; FARO, L. V. ; MELLO, A. L. N. ; SILVA, D. O. ; ABRAHIM-VIEIRA, B. ; RODRIGUES, Carlos Rangel ; SILVA, R. H. S. ; S.VIANA JUNIOR, C. ; SOLA-PENNA, M. ; BOECHAT, F. C. ; SOUZA, M. C. ; ZANCAN, P. ; SOUZA, M. C. B. ; SOUZA, A.M.T. . 4-oxoquinoline-3-carboxamide acyclonucleoside phosphonates hybrids: Human MCF-7 breast cancer cell death induction by oxidative stress-promoting and in silico ADMET studies. JOURNAL OF MOLECULAR STRUCTURE, v. 1276, p. 134542, 2023. [<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg" width="20" height="20" />](https://doi.org/10.1016/j.molstruc.2022.134542)
+2.	
+
+2-Molecular modeling of bioactive substances
+3-Drug design by molecular modification strategies
+4-Development of physiologically based pharmacokinetic (PBPK) models
+5- In silico Evaluation of pharmacokinetics and toxicity of drugs and degradation products
+6-Computational studies of pharmaceutical nanotechnology
+
+
+
 2.	PEREIRA, G. R. C. ; ABRAHIM-VIEIRA, B. ; DE MESQUITA, JOELMA FREIRE . In Silico Analyses of a Promising Drug Candidate for the Treatment of Amyotrophic Lateral Sclerosis Targeting Superoxide Dismutase I Protein. PHARMACEUTICS, v. 15, p. 1-26, 2023. [<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg" width="20" height="20" />](https://doi.org/10.3390/pharmaceutics15041095)
 3.	MACHADO, THAYNÁ ROCCO ; HONORIO, THIAGO ; SOUZA DOMINGOS, THAISA F. ; CANDIDO DE PAULA, DAILANE DA SILVA ; CABRAL, LUCIO MENDES ; RODRIGUES, CARLOS R. ; ABRAHIM'VIEIRA, BÁRBARA A. ; DE SOUZA, ALESSANDRA MENDONÇA TELES . Physiologically-based pharmacokinetics modeling of Semaglutide in children and adolescents with healthy and obese body weights. British Journal of Clinical Pharmacology, v. 19, p. 1, 2023.[<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg" width="20" height="20" />](https://doi.org/10.1111/bcp.15816)
 4.	PEREIRA DE JESUS, RÔMULO ; DE SOUZA FRAGA, LETÍCIA ; ABRAHIM VIEIRA, BÁRBARA ; LETÍCIA DE C. BARBOSA, MARIA . Myeloperoxidase Inhibitors as Anti-Inflammatory Drug Candidates. REVISTA VIRTUAL DE QUÍMICA, v. x, p. x, 2022.[<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg" width="20" height="20" />](https://s3.sa-east-1.amazonaws.com/static.sites.sbq.org.br/rvq.sbq.org.br/pdf/RVq180322-a2.pdf)
