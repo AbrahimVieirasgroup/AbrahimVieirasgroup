@@ -7,11 +7,11 @@ Adjunct professor at the Faculty of Pharmacy at the Federal University of Rio de
 1.	MACHADO, T. R. ; FARO, L. V. ; MELLO, A. L. N. ; SILVA, D. O. ; ABRAHIM-VIEIRA, B. ; RODRIGUES, Carlos Rangel ; SILVA, R. H. S. ; S.VIANA JUNIOR, C. ; SOLA-PENNA, M. ; BOECHAT, F. C. ; SOUZA, M. C. ; ZANCAN, P. ; SOUZA, M. C. B. ; SOUZA, A.M.T. . 4-oxoquinoline-3-carboxamide acyclonucleoside phosphonates hybrids: Human MCF-7 breast cancer cell death induction by oxidative stress-promoting and in silico ADMET studies. JOURNAL OF MOLECULAR STRUCTURE, v. 1276, p. 134542, 2023. [<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg" width="20" height="20" />](https://doi.org/10.1016/j.molstruc.2022.134542)
 2.	
 
-2-Molecular modeling of bioactive substances
-3-Drug design by molecular modification strategies
-4-Development of physiologically based pharmacokinetic (PBPK) models
-5- In silico Evaluation of pharmacokinetics and toxicity of drugs and degradation products
-6-Computational studies of pharmaceutical nanotechnology
+* ***2-Molecular modeling of bioactive substances***
+* ***3-Drug design by molecular modification strategies***
+* ***4-Development of physiologically based pharmacokinetic (PBPK) models***
+* ***5- In silico Evaluation of pharmacokinetics and toxicity of drugs and degradation products***
+* ***6-Computational studies of pharmaceutical nanotechnology***
 
 
 
