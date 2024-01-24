@@ -50,7 +50,7 @@ Adjunct professor at the Faculty of Pharmacy at the Federal University of Rio de
 4. LOPES, MARLENE ; ABRAHIM, BARBARA ; SEICA, RAQUEL ; VEIGA, FRANCISCO ; RODRIGUES, CARLOS ; RIBEIRO, ANTONIO. Intestinal Uptake of Insulin Nanoparticles: Facts or Myths? Current Pharmaceutical Biotechnology (Print), v. 15, p. 629-638, 2014.[<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg" width="20" height="20" />](https://www.eurekaselect.com/article/62334)
 5. LOPES, M. ; ABRAHIM, B. A. ; RODRIGUES, C. R. ; VEIGA, L. M. CABRALF. ; RIBEIRO, A. J. . Alginate-Based Micro and Nanoparticles Coated with Chitosan. Journal of Chitin and Chitosan Science, v. 1, p. 173-176, 2013.[<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg" width="20" height="20" />](https://doi.org/10.1166/jcc.2013.1025)
 
-*BAAV Research group*
+**Research Projects:**
 
 * Virtual Prospecting and Rational Design of Thiourea Derivatives with Antiplatelet Activity; Gabriel Rodrigues Coutinho Pereira; Post-Doctoral researcher; Advisor: Barbara de Azevedo Abrahim-Vieira and Lucio Mendes Cabral
 
