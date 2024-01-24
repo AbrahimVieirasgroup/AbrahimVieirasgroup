@@ -51,32 +51,34 @@ Adjunct professor at the Faculty of Pharmacy at the Federal University of Rio de
 5. LOPES, M. ; ABRAHIM, B. A. ; RODRIGUES, C. R. ; VEIGA, L. M. CABRALF. ; RIBEIRO, A. J. . Alginate-Based Micro and Nanoparticles Coated with Chitosan. Journal of Chitin and Chitosan Science, v. 1, p. 173-176, 2013.[<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg" width="20" height="20" />](https://doi.org/10.1166/jcc.2013.1025)
 
 *BAAV Research group*
-Virtual Prospecting and Rational Design of Thiourea Derivatives with Antiplatelet Activity; Gabriel Rodrigues Coutinho Pereira; Post-Doctoral researcher; Advisor: Barbara de Azevedo Abrahim-Vieira and Lucio Mendes Cabral
 
-Physiologically-based pharmacokinetic (PBPK) modeling of Alogliptin in Pregnant Women administration; Camila Alves de Toledo; Msc. Student; Advisor: Barbara de Azevedo Abrahim-Vieira
+* Virtual Prospecting and Rational Design of Thiourea Derivatives with Antiplatelet Activity; Gabriel Rodrigues Coutinho Pereira; Post-Doctoral researcher; Advisor: Barbara de Azevedo Abrahim-Vieira and Lucio Mendes Cabral
 
-Interaction Profile and Safety Assessment of SGLT-2 Inhibitor Drug Degradation Products Using in silico Methods; Thiago Wilson Rodrigues da Costa; Ph.D. Student; Advisor: Barbara de Azevedo Abrahim-Vieira and Alessandra Mendonça Teles de Souza
+* Physiologically-based pharmacokinetic (PBPK) modeling of Alogliptin in Pregnant Women administration; Camila Alves de Toledo; Msc. Student; Advisor: Barbara de Azevedo Abrahim-Vieira
 
-Potential risks of toxicity of donepezil degradation products and metabolites by in silico analysis; Bárbara Bedôr Novo; Msc. Student; Advisor: Bárbara de Azevedo Abrahim-Vieira and Magaly Girão Albuquerque. Development agency: FAPERJ
+* Interaction Profile and Safety Assessment of SGLT-2 Inhibitor Drug Degradation Products Using in silico Methods; Thiago Wilson Rodrigues da Costa; Ph.D. Student; Advisor: Barbara de Azevedo Abrahim-Vieira and Alessandra Mendonça Teles de Souza
 
-Assessment of the toxicity and development of quantitative structure-activity relationship (QSAR) model to predict the mutagenic potency of oligopeptides. Daniel Mabundu Kibwila; Ph.D. student; Advisors: Carlos Rangel Rodrigues and  Barbara de Azevedo Abrahim-Vieira. Development agency: CAPES/ Strategic emergency program to prevent and combat outbreaks, endemics, epidemics and pandemics. 
+* Potential risks of toxicity of donepezil degradation products and metabolites by in silico analysis; Bárbara Bedôr Novo; Msc. Student; Advisor: Bárbara de Azevedo Abrahim-Vieira and Magaly Girão Albuquerque. Development agency: FAPERJ
 
-Toxicodynamics Assessment Of Linagliptin’s Degradation Products And Metabolites Using New Approach Methodologies; Ana Carolina Rego Rodrigues; Graduation Student; Advisor: Barbara de Azevedo Abrahim-Vieira
+* Assessment of the toxicity and development of quantitative structure-activity relationship (QSAR) model to predict the mutagenic potency of oligopeptides. Daniel Mabundu Kibwila; Ph.D. student; Advisors: Carlos Rangel Rodrigues and  Barbara de Azevedo Abrahim-Vieira. Development agency: CAPES/ Strategic emergency program to prevent and combat outbreaks, endemics, epidemics and pandemics. 
 
-Physiologically-based pharmacokinetic (PBPK) modeling and new formulation of empagliflozin for pediatric administration; Gabriela Pereira Milhm; Ph.D. student; Advisor: Bárbara de Azevedo Abrahim-Vieira. Development agency: CAPES
+* Toxicodynamics Assessment Of Linagliptin’s Degradation Products And Metabolites Using New Approach Methodologies; Ana Carolina Rego Rodrigues; Graduation Student; Advisor: Barbara de Azevedo Abrahim-Vieira
 
-Drug Repositioning for COVID-19: Lung PBPK Models of Antivirals; Thayná Rocco Machado; Ph.D. student; Advisor: Alessandra Mendonça Teles de Souza and Bárbara de Azevedo Abrahim-Vieira. 
+* Physiologically-based pharmacokinetic (PBPK) modeling and new formulation of empagliflozin for pediatric administration; Gabriela Pereira Milhm; Ph.D. student; Advisor: Bárbara de Azevedo Abrahim-Vieira. Development agency: CAPES
 
-Drug Repositioning for cutaneous leishmaniasis through the identification of arginase inhibitors; Eduarda Moreira Barreto; Graduation Student; Advisor: Bárbara de Azevedo Abrahim-Vieira e Alessandra Mendonça Teles.
+* Drug Repositioning for COVID-19: Lung PBPK Models of Antivirals; Thayná Rocco Machado; Ph.D. student; Advisor: Alessandra Mendonça Teles de Souza and Bárbara de Azevedo Abrahim-Vieira. 
 
-Virtual Prospection and Rational Design of Thioreare Derivates with Anti-Platelet Aggregation Activity; Mariana Borges Huber; Graduation Student;  Advisor: Bárbara de Azevedo Abrahim-Vieira and Gabriel Rodrigues Coutinho Pereira.
+* Drug Repositioning for cutaneous leishmaniasis through the identification of arginase inhibitors; Eduarda Moreira Barreto; Graduation Student; Advisor: Bárbara de Azevedo Abrahim-Vieira e Alessandra Mendonça Teles.
 
-In silico toxicology and molecular modeling of oligopeptides; Camila Reis Batista; Graduation Student; Advisor: Bárbara de Azevedo Abrahim-Vieira and Daniel Mabundu Kibwila.
+* Virtual Prospection and Rational Design of Thioreare Derivates with Anti-Platelet Aggregation Activity; Mariana Borges Huber; Graduation Student;  Advisor: Bárbara de Azevedo Abrahim-Vieira and Gabriel Rodrigues Coutinho Pereira.
 
-Physiologically based pharmacokinetic (PBPK) modeling for optimization of medicines containing cannabidiol in different routes of administration for the pediatric population; Ana Karla De Santis; Ph.D. Student; Advisors: Barbara de Azevedo Abrahim-Vieira and Lucio Mendes Cabral.
+* In silico toxicology and molecular modeling of oligopeptides; Camila Reis Batista; Graduation Student; Advisor: Bárbara de Azevedo Abrahim-Vieira and Daniel Mabundu Kibwila.
 
-In silico human and ecotoxicity of sun protection products; Maria Maura Barros Duque, Doctoral Student, Advisor: Bárbara de Azevedo Abrahim-Vieira and Carlos Rangel Rodrigues
+* Physiologically based pharmacokinetic (PBPK) modeling for optimization of medicines containing cannabidiol in different routes of administration for the pediatric population; Ana Karla De Santis; Ph.D. Student; Advisors: 
+Barbara de Azevedo Abrahim-Vieira and Lucio Mendes Cabral.
 
+* In silico human and ecotoxicity of sun protection products; Maria Maura Barros Duque, Doctoral Student, Advisor: Bárbara de Azevedo Abrahim-Vieira and Carlos Rangel Rodrigues
+  
 <!---
 AbrahimVieirasgroup/AbrahimVieirasgroup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
